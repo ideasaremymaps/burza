@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/burza/twitter</url>
+		<description>update twitter account</description>
+		<schedule>every day 06:00</schedule>
+	</cron>
+	<cron>
+		<url>/burza/twitterSi</url>
+		<description>update twitter account</description>
+		<schedule>every day 06:01</schedule>
+	</cron>
+</cronentries>

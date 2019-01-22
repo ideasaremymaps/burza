@@ -1,0 +1,3 @@
+# Module burza
+# RPC service class, partial path of RPC policy file
+com.app.burza.client.GreetingService, 09E7CE829EB9819FF8720F85685AD57B.gwt.rpc

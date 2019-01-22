@@ -1,0 +1,2 @@
+serviceClass: com.app.burza.client.GreetingService
+path: 09E7CE829EB9819FF8720F85685AD57B.gwt.rpc
