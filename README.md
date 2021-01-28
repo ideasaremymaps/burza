@@ -5,7 +5,7 @@ Project started: July 2014
 
 The goal of this project is to have a daily statistics on the fluctuation of the unemployed people in the Republic of Croatia. 
 The code parses the number of unemployed people in Croatia from the page of Croatian Employment Office (https://burzarada.hzz.hr/ ) 
-every day at 8 o'clock A.M. and publishes it on the two following pages: 
+every day at 8 A.M. and publishes it to the following pages: 
   - https://twitter.com/burza_rada
   - https://www.facebook.com/Nezaposleni-320061638169077/
 
